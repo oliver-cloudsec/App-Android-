@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GastoPersonalApp</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="monto">Monto</string>
+</resources>
